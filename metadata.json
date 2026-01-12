@@ -1,0 +1,7 @@
+{
+  "name": "Polyglot Reader",
+  "description": "A high-performance multilingual text-to-speech application that seamlessly handles text mixed with different languages using Gemini's advanced TTS capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
